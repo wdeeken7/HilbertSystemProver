@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="ClassDefinition.fs" />
+    <Compile Include="SoundnessChecks.fs" />
+    <Compile Include="FillExpression.fs" />
+    <Compile Include="PostOrderPreprocessing.fs" />
+    <Compile Include="CheckEquality.fs" />
+    <Compile Include="DetermineDependencies.fs" />
+    <Compile Include="PrintingFunctions.fs" />
+    <Compile Include="Prover.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>

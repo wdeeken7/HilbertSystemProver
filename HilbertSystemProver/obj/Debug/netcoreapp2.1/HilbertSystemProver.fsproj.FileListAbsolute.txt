@@ -1,0 +1,10 @@
+C:\Users\wdeek\source\repos\HilbertSystemProver\HilbertSystemProver\obj\Debug\netcoreapp2.1\HilbertSystemProver.fsprojAssemblyReference.cache
+C:\Users\wdeek\source\repos\HilbertSystemProver\HilbertSystemProver\obj\Debug\netcoreapp2.1\HilbertSystemProver.AssemblyInfoInputs.cache
+C:\Users\wdeek\source\repos\HilbertSystemProver\HilbertSystemProver\obj\Debug\netcoreapp2.1\HilbertSystemProver.AssemblyInfo.fs
+C:\Users\wdeek\source\repos\HilbertSystemProver\HilbertSystemProver\bin\Debug\netcoreapp2.1\HilbertSystemProver.deps.json
+C:\Users\wdeek\source\repos\HilbertSystemProver\HilbertSystemProver\bin\Debug\netcoreapp2.1\HilbertSystemProver.runtimeconfig.json
+C:\Users\wdeek\source\repos\HilbertSystemProver\HilbertSystemProver\bin\Debug\netcoreapp2.1\HilbertSystemProver.runtimeconfig.dev.json
+C:\Users\wdeek\source\repos\HilbertSystemProver\HilbertSystemProver\bin\Debug\netcoreapp2.1\HilbertSystemProver.dll
+C:\Users\wdeek\source\repos\HilbertSystemProver\HilbertSystemProver\bin\Debug\netcoreapp2.1\HilbertSystemProver.pdb
+C:\Users\wdeek\source\repos\HilbertSystemProver\HilbertSystemProver\obj\Debug\netcoreapp2.1\HilbertSystemProver.dll
+C:\Users\wdeek\source\repos\HilbertSystemProver\HilbertSystemProver\obj\Debug\netcoreapp2.1\HilbertSystemProver.pdb
